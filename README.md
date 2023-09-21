@@ -40,7 +40,7 @@ You can see a live demo of this text editor app [here](#).
 
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance the functionality or user experience of this text editor app.
 
-censed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ## Acknowledgments
 
